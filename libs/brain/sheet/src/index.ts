@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-
 import { BrnSheet } from './lib/brn-sheet';
 import { BrnSheetClose } from './lib/brn-sheet-close';
 import { BrnSheetContent } from './lib/brn-sheet-content';
